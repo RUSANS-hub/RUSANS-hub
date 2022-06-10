@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m **@RUSANS-hub**
 
-- 🌱 **I’m currently learning Everything I want to know**
+- 🌱 I’m learning **Everything I want to know**
 
 - 👨‍💻 All of my projects are available at [www.rubensansidar.site](www.rubensansidar.site)
 
