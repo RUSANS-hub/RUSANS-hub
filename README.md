@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Everything I want to know**
 
-- 👨‍💻 All of my projects are available at [www.rubensansidar.site](www.rubensansidar.site)
+- 👨‍💻 All of my projects are available at [sans.generasi4bogor.com](https://sans.generasi4bogor.com)
 
 - 💬 Ask me about **Html, C++, Python, CSS**
 
