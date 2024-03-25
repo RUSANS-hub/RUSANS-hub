@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Everything I want to know**
 
-- 👨‍💻 All of my projects are available at [rusans.generasi4bogor.com](https://rusans.generasi4bogor.com)
+- 👨‍💻 All of my projects are available at [rusans.aisma.co.id](https://rusans.aisma.co.id)
 
 - 💬 Ask me about **Html, C++, Python, CSS**
 
